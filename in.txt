@@ -1,0 +1,16 @@
+#sv1
+name:luom
+old:10
+mark:8
+#tc1
+name:nam
+old:30
+salary:7
+#sv2
+name:tu
+old:10
+mark:8
+#tc2
+name:ha
+old:32
+mark:9
