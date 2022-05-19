@@ -9,8 +9,8 @@ salary:7
 #sv2
 name:tu
 old:10
-mark:8
+mark:9
 #tc2
 name:ha
 old:32
-mark:9
+mark:10
